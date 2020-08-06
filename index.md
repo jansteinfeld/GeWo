@@ -7,6 +7,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [jobwohnen.at](https://www.jobwohnen.at/wohnungen/#suchergebnis)
 - [bazar.at](http://www.bazar.at/wien-wohnungen-anzeigen,dir,1,cId,14,fc,9,loc,9,pt,16,ret,12,sf,8,tp,0,at,0)
 - [keinmakler.at](https://www.keinmakler.at/Wohnung-Miete/Wien-%C3%96sterreich)
+
 ------------------------------------------------------------------------
 ### Genossenschaftswohnung
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
@@ -70,12 +71,12 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 
 ------------------------------------------------------------------------
 ## weitere Links
-- [ebg-wohnen.at]http://www.ebg-wohnen.at/
-- [bwsg.at]https://www.bwsg.at/de/home
-- [gewog-wohnen.at]http://www.gewog-wohnen.at/home/
-- [oesw.at]https://www.oesw.at/
-- [schoenerezukunft.at]https://www.schoenerezukunft.at/
-- [wien-nordwest.at]http://www.wien-nordwest.at/
+- [ebg-wohnen.at](http://www.ebg-wohnen.at/)
+- [bwsg.at](https://www.bwsg.at/de/home)
+- [gewog-wohnen.at](http://www.gewog-wohnen.at/home/)
+- [oesw.at](https://www.oesw.at/)
+- [schoenerezukunft.at](https://www.schoenerezukunft.at/)
+- [wien-nordwest.at](http://www.wien-nordwest.at/)
 - [gartenheim.at](https://gartenheim.at/)
 - [wg-suedost.at](https://wg-suedost.at/Wohnobjekte/wohnobjekte.html)
 
