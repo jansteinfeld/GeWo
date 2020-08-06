@@ -1,11 +1,14 @@
-## Sammlung von GeWo links
-Sammlung von Links zu Genossenschaftswohnungen
+# Sammlung von GeWo links
+Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier: https://www.gbv.at/gemeinnuetzige-bauwirtschaft/Mitglieder_des_Verbands?state=Wien
+
+## Wohnungen
 
 ### Mietwohnungen
-- [editor on GitHub](https://github.com/jansteinfeld/GeWo/edit/gh-pages/index.md)
-
-https://www.gbv.at/gemeinnuetzige-bauwirtschaft/Mitglieder_des_Verbands?state=Wien
+- [jobwohnen.at](https://www.jobwohnen.at/wohnungen/#suchergebnis)
+- [bazar.at](http://www.bazar.at/wien-wohnungen-anzeigen,dir,1,cId,14,fc,9,loc,9,pt,16,ret,12,sf,8,tp,0,at,0)
+- [keinmakler.at](https://www.keinmakler.at/Wohnung-Miete/Wien-%C3%96sterreich)
 ------------------------------------------------------------------------
+### Genossenschaftswohnung
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
 - [aufbau.at](http://aufbau.at/wohnungen-wiedervermietung.html)
 - [gwsg.at](http://gwsg.at/freie-wohnungen-1/)
@@ -42,15 +45,31 @@ https://www.gbv.at/gemeinnuetzige-bauwirtschaft/Mitglieder_des_Verbands?state=Wi
 - [wogem.at](https://www.wogem.at/de/angebote.php)
 - [wohnen.at](https://www.wohnen.at/angebot/unser-wohnungsangebot/)
 
-### Geschäftslokale
+## Eigentumswohnungen
+- [migra.at](https://www.migra.at/Wohnung-kaufen)
+- [keinmakler.at](https://www.keinmakler.at/Wohnung-Kauf/Wien-%C3%96sterreich)
+
+## Häuser
+- [keinmakler.at](https://www.keinmakler.at/Haus-Kauf/Wien-%C3%96sterreich)
+
+------------------------------------------------------------------------
+## Geschäftslokale
+### Genossenschaften
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
 - [aufbau.at](http://aufbau.at/wohnungen-wiedervermietung-lokal.html)
 - [ebsg.at](https://www.ebsg.at/neues-zuhause-finden/filter/geschaeftslokal.html)
 - [heimbau.at](https://www.heimbau.at/geschaeftslokale)
 - [hoe.at](https://www.hoe.at/de/wohnungssuche/liste?isSearch=true&searchbezirk%5B%5D=7230&searchbezirk%5B%5D=7163&searchbezirk%5B%5D=7239&searchbezirk%5B%5D=7240&searchbezirk%5B%5D=7241&searchbezirk%5B%5D=7242&searchbezirk%5B%5D=7243&searchbezirk%5B%5D=7244&searchbezirk%5B%5D=7245&searchbezirk%5B%5D=7246&searchbezirk%5B%5D=7247&searchbezirk%5B%5D=7231&searchbezirk%5B%5D=7248&searchbezirk%5B%5D=7249&searchbezirk%5B%5D=7184&searchbezirk%5B%5D=7250&searchbezirk%5B%5D=7232&searchbezirk%5B%5D=7233&searchbezirk%5B%5D=7234&searchbezirk%5B%5D=7235&searchbezirk%5B%5D=7236&searchbezirk%5B%5D=7237&searchbezirk%5B%5D=7238&imo_type=)
 - [oevw.at](https://www.oevw.at/)
-- 
-### weitere Links
+
+### Miete
+- [jobwohnen.at](https://www.jobwohnen.at/wohnungen/#suchergebnis)
+- [psyonline.at](https://www.psyonline.at/go.asp?sektion=boerse&bereich_id=9001&berufsgruppe=pth&art=praxisraum&suche_biete=Biete&suchformular_id=4&aktion=view&regional=AT%2D9)
+- [sharedspaces.at](https://sharedspaces.at/category/coworking-space/vienna)
+- [keinmakler.at](https://www.keinmakler.at/Gewerbeimmobilie-Miete/Wien-%C3%96sterreich)
+
+------------------------------------------------------------------------
+## weitere Links
 - [ebg-wohnen.at]http://www.ebg-wohnen.at/
 - [bwsg.at]https://www.bwsg.at/de/home
 - [gewog-wohnen.at]http://www.gewog-wohnen.at/home/
@@ -61,6 +80,7 @@ https://www.gbv.at/gemeinnuetzige-bauwirtschaft/Mitglieder_des_Verbands?state=Wi
 - [wg-suedost.at](https://wg-suedost.at/Wohnobjekte/wohnobjekte.html)
 
 
+## noch aufräumen
 https://wohnungssuche.wohnberatung-wien.at/?page=wohnung&id=898aa9a42b6cf3701792807fbfe3608d
 http://www.bazar.at/wien-wohnungen-anzeigen,dir,1,cId,14,fc,9,loc,9,pt,16,ret,11,sf,8,tp,0,at,0,pack,2
 https://www.steindorff.at/immobilien.php?objektart=0&bundesland=9&bezirk=0&preis_von=&preis_bis=&flaeche_von=&flaeche_bis=
@@ -70,5 +90,3 @@ https://www.oesw.at/immobilienangebot/sofort-wohnen.html
 	
 https://www.mischek.at/
 
-### Eigentumswohnungen
-https://www.migra.at/Wohnung-kaufen
