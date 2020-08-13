@@ -7,7 +7,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [jobwohnen.at](https://www.jobwohnen.at/wohnungen/#suchergebnis)
 - [bazar.at](http://www.bazar.at/wien-wohnungen-anzeigen,dir,1,cId,14,fc,9,loc,9,pt,16,ret,12,sf,8,tp,0,at,0)
 - [keinmakler.at](https://www.keinmakler.at/Wohnung-Miete/Wien-%C3%96sterreich)
-
+- [Sammlung von Projekten](https://www.projekt-promotion.at/projekten/89/alle/alle/alle/658/776-777-778-779-780-781-782-783-789)
 ------------------------------------------------------------------------
 ### Genossenschaftswohnung
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
