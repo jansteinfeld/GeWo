@@ -11,6 +11,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 ------------------------------------------------------------------------
 ### Genossenschaftswohnung
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
+- [arwag.at](https://www.arwag.at/Wohnungen/Sofort-Wohnen-in-Wien)
 - [aufbau.at](http://aufbau.at/wohnungen-wiedervermietung.html)
 - [gwsg.at](http://gwsg.at/freie-wohnungen-1/)
 - [neusiedlerbau.at](http://neusiedlerbau.at/index.php?id=35)
@@ -29,6 +30,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [egw.at](https://www.egw.at/immobilien/bestands-wohnungen)
 - [familienwohnbau.at](https://www.familienwohnbau.at/immobiliensuche/?bundesland=AT9&nutzungsart=W&kaufpreisBis=450000&mieteBis=1200&hauptflaecheVon=85)
 - [frieden.at](https://www.frieden.at/wohnungsangebot/)
+- [gesiba.at](https://www.gesiba.at/angebote)
 - [gsgwohnen.at](https://www.gsgwohnen.at/projekte/)
 - [heimbau.at](https://www.heimbau.at/wiedervermietung)
 - [heim-wohnen.at](https://www.heim-wohnen.at/aktuelles/aktuelle-angebote/#wien)
