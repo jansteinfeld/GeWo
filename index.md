@@ -10,6 +10,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [Sammlung von Projekten](https://www.projekt-promotion.at/projekten/89/alle/alle/alle/658/776-777-778-779-780-781-782-783-789)
 - [sReal](https://www.sreal.at/de/immobilien-suche?f%5BbuyingType%5D=buy&f%5Blocation_or_id%5D%5B%5D=f_Wien&f%5Barea%5D%5Bmin%5D=90&f%5Barea%5D%5Bmax%5D=&f%5Bprice%5D%5Bmin%5D=&f%5Bprice%5D%5Bmax%5D=450000&f%5Bsurface_area%5D%5Bmin%5D=&f%5Bsurface_area%5D%5Bmax%5D=&f%5Brooms%5D%5Bmin%5D=&f%5Brooms%5D%5Bmax%5D=&f%5Bfulltext%5D=&f%5Bsearch%5D=&f%5Bsorting%5D=updated_desc)
 - [wohnnet.at](https://www.wohnnet.at/immobilien/1150-wien?flaeche=80)
+- [ivv.at](https://www.ivv.at/half-map-2/?lat=&lng=&use_radius=on&keyword=&search_location=&radius=0&status=&type=&bedrooms=&min-area=79&max-area=1200&min-price=1&max-price=453015&hidden_geocode_result=&sortby=)
 
 
 ------------------------------------------------------------------------
