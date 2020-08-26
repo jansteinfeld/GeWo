@@ -33,7 +33,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [dc-wohnbau.at](https://www.dc-wohnbau.at/freie-objekte/)
 - [ebsg.at](https://www.ebsg.at/neues-zuhause-finden/filter/wohnung+reihenhaus/ort/Wien%20%5BORT%5D/zimmer_min/3/zimmer_max/5.html)
 - [egw.at](https://www.egw.at/immobilien/bestands-wohnungen)
-- [familienwohnbau.at](https://www.familienwohnbau.at/immobiliensuche/?bundesland=AT9&nutzungsart=W&kaufpreisBis=450000&mieteBis=1200&hauptflaecheVon=85)
+- [familienwohnbau.at](https://www.familienwohnbau.at/immobiliensuche/?bundesland=AT9&nutzungsart=W&kaufpreisBis=450000&mieteBis=1200&hauptflaecheVon=8)
 - [frieden.at](https://www.frieden.at/wohnungsangebot/)
 - [gesiba.at](https://www.gesiba.at/angebote)
 - [gsgwohnen.at](https://www.gsgwohnen.at/projekte/)
