@@ -89,12 +89,11 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 
 
 ## noch aufräumen
-https://wohnungssuche.wohnberatung-wien.at/?page=wohnung&id=898aa9a42b6cf3701792807fbfe3608d
-http://www.bazar.at/wien-wohnungen-anzeigen,dir,1,cId,14,fc,9,loc,9,pt,16,ret,11,sf,8,tp,0,at,0,pack,2
-https://www.steindorff.at/immobilien.php?objektart=0&bundesland=9&bezirk=0&preis_von=&preis_bis=&flaeche_von=&flaeche_bis=
-https://www.value-one.com/de/Projekte/Gruenblick_project_300
-https://www.viertel-zwei.at/wohnen-und-arbeiten-2/
-https://www.oesw.at/immobilienangebot/sofort-wohnen.html
-	
-https://www.mischek.at/
+- https://wohnungssuche.wohnberatung-wien.at/?page=wohnung&id=898aa9a42b6cf3701792807fbfe3608d
+- http://www.bazar.at/wien-wohnungen-anzeigen,dir,1,cId,14,fc,9,loc,9,pt,16,ret,11,sf,8,tp,0,at,0,pack,2
+- https://www.steindorff.at/immobilien.php?objektart=0&bundesland=9&bezirk=0&preis_von=&preis_bis=&flaeche_von=&flaeche_bis=
+- https://www.value-one.com/de/Projekte/Gruenblick_project_300
+- https://www.viertel-zwei.at/wohnen-und-arbeiten-2/
+- https://www.oesw.at/immobilienangebot/sofort-wohnen.html
+- https://www.mischek.at/
 
