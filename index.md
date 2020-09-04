@@ -1,5 +1,5 @@
 # Sammlung von GeWo links
-Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier: https://www.gbv.at/gemeinnuetzige-bauwirtschaft/Mitglieder_des_Verbands?state=Wien
+Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier: [www.gbv.at](https://www.gbv.at/gemeinnuetzige-bauwirtschaft/Mitglieder_des_Verbands?state=Wien)
 
 ## Wohnungen
 
