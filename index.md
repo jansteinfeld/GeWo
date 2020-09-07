@@ -23,7 +23,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [schoenes-wohnen.at](http://www.schoenes-wohnen.at/de/duplicate-of-wohnungssuche.html)
 - [wbv-gpa.at](http://www.wbv-gpa.at/angebot/freie-wohnungen)
 - [wien-nordwest.at](http://www.wien-nordwest.at/wohnungsansuchen.htm)
-- [ebg-wohnen.at](https://ebg-wohnen.at/Suche.aspx?typ=1&zmin=3&zmax=5&art=$1$2$3$6&rg=$1$6$8&wa=$0$1https://ebg-wohnen.at/Suche.aspx?typ=1&zmin=3&zmax=5&art=$1$2$3$6&rg=$1$6$8&wa=$0$1)
+- [ebg-wohnen.at](https://ebg-wohnen.at/Suche.aspx?typ=1&zmin=3&zmax=5&art=$1$2$3$6&rg=$1$6$8&wa=$0$1)
 - [oesw.at](https://oesw.at/immobilienangebot/sofort-wohnen.html)
 - [sozialbau.at](https://www.sozialbau.at/unser-angebot/sofort-verfuegbar/)
 - [wohnungseigentum.at](https://wohnungseigentum.at/immobiliensuche/sofort-wohnen/)
