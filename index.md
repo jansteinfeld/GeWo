@@ -86,7 +86,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [gartenheim.at](https://gartenheim.at/)
 - [wg-suedost.at](https://wg-suedost.at/Wohnobjekte/wohnobjekte.html)
 
-
+------------------------------------------------------------------------
 ## noch aufräumen
 - https://wohnungssuche.wohnberatung-wien.at/?page=wohnung&id=898aa9a42b6cf3701792807fbfe3608d
 - http://www.bazar.at/wien-wohnungen-anzeigen,dir,1,cId,14,fc,9,loc,9,pt,16,ret,11,sf,8,tp,0,at,0,pack,2
