@@ -51,7 +51,18 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [wiensued.at](https://www.wiensued.at/wohnen/sofort-verfuegbar/)
 - [wogem.at](https://www.wogem.at/de/angebote.php)
 - [wohnen.at](https://www.wohnen.at/angebot/unser-wohnungsangebot/)
-
+- [wiseg](https://www.wiseg.at/Projekte)
+- [vwa-aphrodite](https://www.vwa-aphrodite.at/home/wohnungen-garagen/freie-wohnungen)
+- [at-home](https://www.at-home.co.at/Projekte)
+- [buwog](https://www.buwog.at/de/property-search-result?property_search%5Btype%5D=rent&property_search%5Blimit%5D=10&property_search%5Blocation_rent%5D=city_2&property_search%5Blocation_buy%5D=&property_search%5Bproperty_type%5D=living&property_search%5Bmaximum_price%5D=&property_search%5Bminimum_number_of_rooms%5D=3&property_search%5Bmaximum_number_of_rooms%5D=0&property_search%5Bminimum_area%5D=80&property_search%5Bmaximum_area%5D=0&property_search%5Bbeing_built%5D=1&property_search%5Bexisting%5D=1&property_search%5Bcountry%5D=at&property_search%5Bsorting%5D=updatedAt%7CDESC)
+- [mischek](https://www.mischek.at/nc/projekte/wohnungen.html?tx_mhimmo_pi1%5Bgroesse%5D=70-100)
+- [dc-donaubau](https://www.dc-wohnbau.at/immobiliensuche/?es_search%5Beigenmittel1534426005f5b757b957be3e%5D%5Bmin%5D=0&es_search%5Beigenmittel1534426005f5b757b957be3e%5D%5Bmax%5D=80000&es_search%5Bmietentgelt1534426193f5b757c51f13b9%5D%5Bmin%5D=0&es_search%5Bmietentgelt1534426193f5b757c51f13b9%5D%5Bmax%5D=1200&es_search%5Bzimmer1534426238f5b757c7e776f2%5D%5Bmin%5D=3&es_search%5Bzimmer1534426238f5b757c7e776f2%5D%5Bmax%5D=10&es_search%5Bwohnflaeche1534426266f5b757c9aacd5d%5D%5Bmin%5D=80&es_search%5Bwohnflaeche1534426266f5b757c9aacd5d%5D%5Bmax%5D=250)
+- [geboes](https://www.geboes.at/advanced-search)
+- [ima-gmbh](https://www.ima-gmbh.at/)
+- [kabelwerk](https://www.kabelwerk.at/objekte/liste)
+- [kallco](https://www.kallco.at/immobilien/)
+- [schoenezukunft](https://www.schoenerezukunft.at/Wohnen/Wohnungssuche/Default.aspx)
+- 
 ## Eigentumswohnungen
 - [migra.at](https://www.migra.at/Wohnung-kaufen)
 - [keinmakler.at](https://www.keinmakler.at/Wohnung-Kauf/Wien-%C3%96sterreich)
