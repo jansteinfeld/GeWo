@@ -26,8 +26,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [oesw.at](https://oesw.at/immobilienangebot/sofort-wohnen.html?objectType=0&rooms=3)
 <!-- - [sozialbau.at](https://www.sozialbau.at/unser-angebot/sofort-verfuegbar/) -->
 - [wohnungseigentum.at](https://wohnungseigentum.at/immobiliensuche/sofort-wohnen/?objectType=0)
-- [bauhilfe.at/miete](https://www.bauhilfe.at/html/wo-mi.html)
-- [bauhilfe.at/eigentum](https://www.bauhilfe.at/html/wo-et.html)
+- [bauhilfe.at/miete](https://www.bauhilfe.at/wp/angebote-sofort-wohnen)
 - [bwsg.at](https://www.bwsg.at/overview/?search_text=wien&rooms-min=3&rooms-max=5&living_space-min=80&living_space-max=150)
 - [dc-wohnbau.at](https://www.dc-wohnbau.at/freie-objekte/)
 - [ebsg.at](https://www.ebsg.at/neues-zuhause-finden/filter/wohnung+reihenhaus/ort/Wien%20%5BORT%5D/zimmer_min/3/zimmer_max/5.html)
