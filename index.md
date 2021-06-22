@@ -66,11 +66,13 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [migra.at](https://www.migra.at/Wohnung-kaufen)
 - [keinmakler.at](https://www.keinmakler.at/Wohnung-Kauf/Wien-%C3%96sterreich)
 
+
+
 ### Häuser
 - [keinmakler.at](https://www.keinmakler.at/Haus-Kauf/Wien-%C3%96sterreich)
 
 ------------------------------------------------------------------------
-## Praxis
+<!-- ## Praxis
 ------------------------------------------------------------------------
 - [kurier-Miete](https://immo.kurier.at/suche?s=relevance&l=Wien&as%5B%5D=at.wien-innere-stadt&as%5B%5D=at.wien-mariahilf&as%5B%5D=at.wien-neubau&as%5B%5D=at.wien-josefstadt&as%5B%5D=at.wien-alsergrund&as%5B%5D=at.wien-rudolfsheim-fuenfhaus&usageType=commercial&t=office%3Arental&a=at.wien&pf=&pt=1000&rf=0&rt=0&sf=&st=&f%5B%5D=barrier_free&yf=&yt=&ff=&ft=&pa=&o=&ad=&u=)
 - [Flohmarkt](https://www.flohmarkt.at/suche/immobilien-wien/praxisraum)
@@ -80,7 +82,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [besthelp](https://www.besthelp.at/go.asp?sektion=boerse&bereich_id=9111&rkarte=boerse_blackboard&berufsgruppe=t02&art=praxisraum&suche_biete=Biete&suchformular_id=4&aktion=view&regional=AT%2D9)
 - [imGraetzel](https://www.imgraetzl.at/wien/neubau-1070/raumteiler?category=4)
 - [Psyonline](https://www.psyonline.at/go.asp?sektion=boerse&bereich_id=9001&berufsgruppe=pth&art=praxisraum&suchformular_id=4&aktion=view&regional=AT%2D9)
-- 
+-  -->
 
 
 
