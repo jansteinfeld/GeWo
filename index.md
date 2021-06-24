@@ -13,6 +13,30 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [ivv.at](https://www.ivv.at/half-map-2/?lat=&lng=&use_radius=on&keyword=&search_location=&radius=0&status=&type=&bedrooms=&min-area=79&max-area=1200&min-price=1&max-price=453015&hidden_geocode_result=&sortby=)
 - [immo-yourself](https://immo-yourself.com/)
 
+### Genossenschaftswohnung shortlist
+------------------------------------------------------------------------
+- [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
+- [aufbau.at](http://aufbau.at/wohnungen-wiedervermietung.html)
+- [gwsg.at](https://www.gwsg.at/freie-wohnungen)
+- [ebg-wohnen.at](https://ebg-wohnen.at/Suche.aspx?typ=1&zmin=3&zmax=5&art=$1$2$3$6&rg=$1$6$8&wa=$0$1)
+- [oesw.at](https://oesw.at/immobilienangebot/sofort-wohnen.html?objectType=0&rooms=3)
+- [wohnungseigentum.at](https://wohnungseigentum.at/immobiliensuche/sofort-wohnen/?objectType=0)
+- [bauhilfe.at/miete](https://www.bauhilfe.at/wp/angebote-sofort-wohnen)
+- [bwsg.at](https://www.bwsg.at/overview/?search_text=wien&rooms-min=3&rooms-max=5&living_space-min=80&living_space-max=150)
+- [ebsg.at](https://www.ebsg.at/immo/suche?type=1&region=916&state=Wien)
+- [egw.at](https://www.egw.at/immobilien/bestands-wohnungen)
+- [familienwohnbau.at](https://www.familienwohnbau.at/immobiliensuche/?sortierung=lastAktivierung%20DESC&bundesland=AT9&nutzungsart=W&kaufpreisBis=450000&mieteBis=1200&hauptflaecheVon=80)
+- [frieden.at](https://www.frieden.at/immobiliensuche?st=Wien&nr=3-_)
+- [heimbau.at](https://www.heimbau.at/wiedervermietung)
+- [hoe.at](https://www.hoe.at/de/Wohnungssuche?lage%5B0%5D=96&q=&areaMin=80&areaMax=108&priceMin=0&priceMax=531900&feature%5B0%5D=272&district%5B0%5D=&legalType%5B0%5D=&immoType%5B0%5D=&rooms=&baseUrl=/de/Wohnungssuche&ajax=1)
+- [schwarzatal.at](https://www.schwarzatal.at/immobiliensuche/?tx_pfimmo_manage%5B__referrer%5D%5B%40extension%5D=PfImmo&tx_pfimmo_manage%5B__referrer%5D%5B%40vendor%5D=PF&tx_pfimmo_manage%5B__referrer%5D%5B%40controller%5D=Object&tx_pfimmo_manage%5B__referrer%5D%5B%40action%5D=list&tx_pfimmo_manage%5B__referrer%5D%5Barguments%5D=YToyOntzOjY6ImFjdGlvbiI7czo0OiJsaXN0IjtzOjEwOiJjb250cm9sbGVyIjtzOjY6Ik9iamVjdCI7fQ%3D%3D9401827558e74bfb084ca468f2b1b87d35c41127&tx_pfimmo_manage%5B__referrer%5D%5B%40request%5D=a%3A4%3A%7Bs%3A10%3A%22%40extension%22%3Bs%3A6%3A%22PfImmo%22%3Bs%3A11%3A%22%40controller%22%3Bs%3A6%3A%22Object%22%3Bs%3A7%3A%22%40action%22%3Bs%3A4%3A%22list%22%3Bs%3A7%3A%22%40vendor%22%3Bs%3A2%3A%22PF%22%3B%7D6bdce365bd911e2b00b096506b0e4add6ad80bd5&tx_pfimmo_manage%5B__trustedProperties%5D=a%3A1%3A%7Bs%3A9%3A%22newFilter%22%3Ba%3A7%3A%7Bs%3A5%3A%22price%22%3Bi%3A1%3Bs%3A4%3A%22size%22%3Bi%3A1%3Bs%3A5%3A%22state%22%3Bi%3A1%3Bs%3A4%3A%22city%22%3Bi%3A1%3Bs%3A9%3A%22equipment%22%3Ba%3A12%3A%7Bi%3A0%3Bi%3A1%3Bi%3A1%3Bi%3A1%3Bi%3A2%3Bi%3A1%3Bi%3A3%3Bi%3A1%3Bi%3A4%3Bi%3A1%3Bi%3A5%3Bi%3A1%3Bi%3A6%3Bi%3A1%3Bi%3A7%3Bi%3A1%3Bi%3A8%3Bi%3A1%3Bi%3A9%3Bi%3A1%3Bi%3A10%3Bi%3A1%3Bi%3A11%3Bi%3A1%3B%7Ds%3A9%3A%22openareas%22%3Ba%3A6%3A%7Bi%3A0%3Bi%3A1%3Bi%3A1%3Bi%3A1%3Bi%3A2%3Bi%3A1%3Bi%3A3%3Bi%3A1%3Bi%3A4%3Bi%3A1%3Bi%3A5%3Bi%3A1%3B%7Ds%3A7%3A%22subject%22%3Bi%3A1%3B%7D%7D26349ddbe5f0096d66b0710726a260bac00599a7&tx_pfimmo_manage%5BnewFilter%5D%5Btype%5D=1%7C1&tx_pfimmo_manage%5BnewFilter%5D%5Bprice%5D=&tx_pfimmo_manage%5BnewFilter%5D%5Bsize%5D=&tx_pfimmo_manage%5BnewFilter%5D%5Bstate%5D=4&tx_pfimmo_manage%5BnewFilter%5D%5Bdistricts%5D=&tx_pfimmo_manage%5BnewFilter%5D%5Bcity%5D=&tx_pfimmo_manage%5BnewFilter%5D%5Bequipment%5D=)
+- [wbvgfw.at](https://www.lebenswert-wohnen.at/suche?f%5Ball%5D%5Brealty_type%5D%5B0%5D=3&f%5Ball%5D%5Brealty_type%5D%5B1%5D=2&f%5Ball%5D%5Bliving_area%5D%5Bmin%5D=80&f%5Ball%5D%5Bcountry%5D=AT&f%5Ball%5D%5Bfederal_state%5D=134&from=623243)
+- [wiseg](https://www.wiseg.at/Projekte)
+- [vwa-aphrodite](https://www.vwa-aphrodite.at/home/wohnungen-garagen/freie-wohnungen)
+- [kallco](https://www.kallco.at/immobilien/)
+- [schoenezukunft](https://www.schoenerezukunft.at/Wohnen/Wohnungssuche/Default.aspx)
+
+
 ------------------------------------------------------------------------
 ### Genossenschaftswohnung
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
@@ -61,7 +85,8 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 <!-- - [kabelwerk](https://www.kabelwerk.at/objekte/liste) -->
 - [kallco](https://www.kallco.at/immobilien/)
 - [schoenezukunft](https://www.schoenerezukunft.at/Wohnen/Wohnungssuche/Default.aspx)
-- 
+
+
 ### Eigentumswohnungen
 - [migra.at](https://www.migra.at/Wohnung-kaufen)
 - [keinmakler.at](https://www.keinmakler.at/Wohnung-Kauf/Wien-%C3%96sterreich)
