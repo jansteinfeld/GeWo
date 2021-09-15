@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" >
-
 # Sammlung von eingen GeWo links
 Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier: [www.gbv.at](https://www.gbv.at/gemeinnuetzige-bauwirtschaft/Mitglieder_des_Verbands?state=Wien)
 ## Wohnungen
