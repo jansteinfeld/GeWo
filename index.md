@@ -3,7 +3,8 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 ## Wohnungen
 
 ### Mietwohnungen
-- [bazar.at](http://www.bazar.at/wien-wohnungen-anzeigen,dir,1,cId,14,fc,9,loc,9,pf,2,pt,18,ref,2,ret,13,sf,8,tp,0,at,0)
+<!-- - [bazar.at](http://www.bazar.at/wien-wohnungen-anzeigen,dir,1,cId,14,fc,9,loc,9,pf,2,pt,18,ref,2,ret,13,sf,8,tp,0,at,0) -->
+- [bazar.at](https://www.bazar.at/l/07-wo/s?locationSuggestions=1990592:R:SUB_MUNICIPALITY:1010&locationSuggestions=1990594:R:SUB_MUNICIPALITY:1020&locationSuggestions=1991416:R:SUB_MUNICIPALITY:1030&locationSuggestions=1991443:R:SUB_MUNICIPALITY:1040&locationSuggestions=1991440:R:SUB_MUNICIPALITY:1050&locationSuggestions=1990595:R:SUB_MUNICIPALITY:1060&locationSuggestions=1990597:R:SUB_MUNICIPALITY:1070&locationSuggestions=1990593:R:SUB_MUNICIPALITY:1080&locationSuggestions=1990590:R:SUB_MUNICIPALITY:1090&locationSuggestions=1990599:R:SUB_MUNICIPALITY:1150&locationSuggestions=1991441:R:SUB_MUNICIPALITY:1160&locationSuggestions=1991438:R:SUB_MUNICIPALITY:1170&locationSuggestions=1990600:R:SUB_MUNICIPALITY:1180&locationSuggestions=1991435:R:SUB_MUNICIPALITY:1190&locationSuggestions=1991437:R:SUB_MUNICIPALITY:1210&locationSuggestions=1991434:R:SUB_MUNICIPALITY:1220&locationSubCountry=109166:R:MUNICIPALITY&locationOtherCountries=false&tradeType=OFFER&price.to=650000&livingSpace.to=90&openSpaces=BALCONY&openSpaces=LOGGIA&openSpaces=TERRACE&page=0&size=20&sort=sort.date,desc)
 <!-- - [jobwohnen.at](https://www.jobwohnen.at/wohnungen/#suchergebnis) -->
 - [keinmakler.at](https://www.keinmakler.at/Wohnung-Miete/Wien-%C3%96sterreich)
 - [Sammlung von Projekten](https://www.projekt-promotion.at/projekten/89/alle/alle/alle/658/776-777-778-779-780-781-782-783-789)
