@@ -16,9 +16,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 ### Genossenschaftswohnung shortlist
 ------------------------------------------------------------------------
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
-- [arwag.at](https://www.arwag.at/immobiliensuche/)
-- [arwag.at](https://www.arwag.at/immobiliensuche/)
-- [aufbau.at](http://aufbau.at/wohnungen-wiedervermietung.html)
+- [arwag.at](https://www.arwag.at/immobiliensuche/- [aufbau.at](http://aufbau.at/wohnungen-wiedervermietung.html)
 - [gwsg.at](https://www.gwsg.at/freie-wohnungen)
 - [wbv-gpa.at](http://www.wbv-gpa.at/angebot/freie-wohnungen)
 - [ebg-wohnen.at](https://www.ebg-wohnen.at/immobilien)
