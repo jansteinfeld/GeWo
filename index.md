@@ -16,7 +16,13 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 ### Genossenschaftswohnung shortlist
 ------------------------------------------------------------------------
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
-- [arwag.at](https://www.arwag.at/immobiliensuche/- [aufbau.at](http://aufbau.at/wohnungen-wiedervermietung.html)
+- [arwag.at](https://www.arwag.at/immobiliensuche/
+- [aufbau.at](http://aufbau.at/wohnungen-wiedervermietung.html)
+- [gwsg.at](https://www.gwsg.at/freie-wohnungen)
+- [wbv-gpa.at](http://www.wbv-gpa.at/angebot/freie-wohnungen)
+- [ebg-wohnen.at](https://www.ebg-wohnen.at/immobilien)
+- [oesw.at](https://www.oesw.at/immobilienangebot/sofort-wohnen.html?objectType=0&size=80m2+-+100m2)
+<!-- - [sozialbau.at](https://www.sozialbau.at/unser-angebot/sofort-verfuegbar/) -->
 - [bauhilfe.at](https://www.bauhilfe.at/wp/angebote-sofort-wohnen)
 - [buwog](https://www.buwog.at/de/property-search-result?property_search%5Btype%5D=rent&property_search%5Blimit%5D=10&property_search%5Blocation_rent%5D=city_2&property_search%5Blocation_buy%5D=&property_search%5Bproperty_type%5D=living&property_search%5Bmaximum_price%5D=&property_search%5Bminimum_number_of_rooms%5D=3&property_search%5Bmaximum_number_of_rooms%5D=0&property_search%5Bminimum_area%5D=80&property_search%5Bmaximum_area%5D=0&property_search%5Bbeing_built%5D=1&property_search%5Bexisting%5D=1&property_search%5Bcountry%5D=at&property_search%5Bsorting%5D=updatedAt%7CDESC)
 - [bwsg.at](https://www.bwsg.at/overview/?search_text=wien)
