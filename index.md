@@ -12,6 +12,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [sReal](https://www.sreal.at/de/immobilien-suche?f%5BbuyingType%5D=buy&f%5Blocation_or_id%5D%5B%5D=f_Wien&f%5Barea%5D%5Bmin%5D=90&f%5Barea%5D%5Bmax%5D=&f%5Bprice%5D%5Bmin%5D=&f%5Bprice%5D%5Bmax%5D=450000&f%5Bsurface_area%5D%5Bmin%5D=&f%5Bsurface_area%5D%5Bmax%5D=&f%5Brooms%5D%5Bmin%5D=&f%5Brooms%5D%5Bmax%5D=&f%5Bfulltext%5D=&f%5Bsearch%5D=&f%5Bsorting%5D=updated_desc)
 - [ivv.at](https://www.ivv.at/half-map-2/?lat=&lng=&use_radius=on&keyword=&search_location=&radius=0&status=&type=&bedrooms=&min-area=79&max-area=1200&min-price=1&max-price=453015&hidden_geocode_result=&sortby=)
 - [immo-yourself](https://immo-yourself.com/)
+- [derStandard](https://immobilien.derstandard.at/immobiliensuche?SortOrder=2&SortType=1&ProjectUsageType=0&UsageType=1&RegionType=0&Keyword=Wien%20%208.%2C%20Josefstadt%2C%201080&RentOrBuy=1&AdditionalLocations=ImmobilienSuche.Model.Global.LocationModel%2CImmobilienSuche.Model.Global.LocationModel%2CImmobilienSuche.Model.Global.LocationModel&SelectedAdditionalLocations=Wien%20%206.%2C%20Mariahilf%2C%201060%24and%24Wien%20%207.%2C%20Neubau%2C%201070%24and%24Wien%20%208.%2C%20Josefstadt%2C%201080&PropertyTypes=ua_36%7Ca_5%2Cua_68%7Ca_5&PropertyType=a_5&RentMax=1500)
 
 ### Genossenschaftswohnung shortlist
 ------------------------------------------------------------------------
