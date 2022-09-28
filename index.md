@@ -14,6 +14,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [immo-yourself](https://immo-yourself.com/)
 - [derStandard](https://immobilien.derstandard.at/immobiliensuche?SortOrder=2&SortType=1&ProjectUsageType=0&UsageType=1&RegionType=0&Keyword=Wien%20%208.%2C%20Josefstadt%2C%201080&RentOrBuy=1&AdditionalLocations=ImmobilienSuche.Model.Global.LocationModel%2CImmobilienSuche.Model.Global.LocationModel%2CImmobilienSuche.Model.Global.LocationModel&SelectedAdditionalLocations=Wien%20%206.%2C%20Mariahilf%2C%201060%24and%24Wien%20%207.%2C%20Neubau%2C%201070%24and%24Wien%20%208.%2C%20Josefstadt%2C%201080&PropertyTypes=ua_36%7Ca_5%2Cua_68%7Ca_5&PropertyType=a_5&RentMax=1500)
 
+
 ### Genossenschaftswohnung shortlist
 ------------------------------------------------------------------------
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
