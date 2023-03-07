@@ -18,6 +18,13 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 
 ### Genossenschaftswohnung shortlist
 ------------------------------------------------------------------------
+Prioritäten
+--------------
+- [heimbau.at](https://www.heimbau.at/wiedervermietung)
+- [familienwohnbau.at](https://www.familienwohnbau.at/immobiliensuche/?sortierung=lastAktivierung%20DESC&bundesland=AT9&nutzungsart=W&hauptflaecheVon=90)
+- [vwa-aphrodite](https://www.vwa-aphrodite.at/home/wohnungen-garagen/freie-wohnungen)
+- [wiseg](https://www.wiseg.at/Projekte)
+
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
 - [arwag.at](https://www.arwag.at/immobiliensuche/)
 - [aufbau.at](http://aufbau.at/wohnungen-wiedervermietung.html)
@@ -33,14 +40,12 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [dc-wohnbau.at](https://www.dc-wohnbau.at/freie-objekte/)
 - [ebg-wohnen.at](https://www.ebg-wohnen.at/immobilien)
 - [egw.at](https://www.egw.at/immobilien/bestands-wohnungen)
-- [familienwohnbau.at](https://www.familienwohnbau.at/immobiliensuche/?sortierung=lastAktivierung%20DESC&bundesland=AT9&nutzungsart=W&hauptflaecheVon=90)
 - [frieden.at](https://www.frieden.at/immobiliensuche?st=Wien&nr=3-_)
 - [geboes](https://www.geboes.at/advanced-search)
 - [gesiba.at](https://www.gesiba.at/immobilien/wohnungen?filter%5Bverfuegbar%5D=sofort&filter%5Bflaechemin%5D=90&filter%5Bflaechemax%5D=150)
 - [gsgwohnen.at](https://www.gsgwohnen.at/sofort-verfuegbar/)
 - [gwsg.at](https://www.gwsg.at/freie-wohnungen)
 - [heim-wohnen.at](https://www.heim-wohnen.at/aktuelles/aktuelle-angebote/#wien)
-- [heimbau.at](https://www.heimbau.at/wiedervermietung)
 - [hoe.at](https://www.hoe.at/de/Wohnungssuche?lage%5B0%5D=96&feature%5B0%5D=272&district%5B0%5D=&legalType%5B0%5D=&immoType%5B0%5D=&baseUrl=%2Fde%2FWohnungssuche&ajax=1&lage%5B%5D=96&q=&areaMin=85&areaMax=108&priceMin=0&priceMax=521900&feature%5B%5D=272&district%5B%5D=&legalType%5B%5D=&immoType%5B%5D=&rooms=)
 - [kallco](https://www.kallco.at/immobilien/?filter%5Btype%5D=2&filter%5Bzip%5D=&filter%5Bprice_min%5D=&filter%5Bprice_max%5D=&filter%5Bsurface_min%5D=85&filter%5Bsurface_max%5D=&filter%5Bloggia%5D=on&filter%5Bbalcony_terrace%5D=on&filter%5Bsort%5D=Sortieren)
 - [lebenswert-wohnen.at](https://www.lebenswert-wohnen.at/suche?f%5Ball%5D%5Bliving_area%5D%5Bmin%5D=90&f%5Ball%5D%5Bfederal_state%5D=134&from=623243)
@@ -53,10 +58,8 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [schwarzatal.at](https://www.schwarzatal.at/immobiliensuche/?tx_pfimmo_manage%5B__referrer%5D%5B%40extension%5D=PfImmo&tx_pfimmo_manage%5B__referrer%5D%5B%40vendor%5D=PF&tx_pfimmo_manage%5B__referrer%5D%5B%40controller%5D=Object&tx_pfimmo_manage%5B__referrer%5D%5B%40action%5D=list&tx_pfimmo_manage%5B__referrer%5D%5Barguments%5D=YToyOntzOjY6ImFjdGlvbiI7czo0OiJsaXN0IjtzOjEwOiJjb250cm9sbGVyIjtzOjY6Ik9iamVjdCI7fQ%3D%3D9401827558e74bfb084ca468f2b1b87d35c41127&tx_pfimmo_manage%5B__referrer%5D%5B%40request%5D=a%3A4%3A%7Bs%3A10%3A%22%40extension%22%3Bs%3A6%3A%22PfImmo%22%3Bs%3A11%3A%22%40controller%22%3Bs%3A6%3A%22Object%22%3Bs%3A7%3A%22%40action%22%3Bs%3A4%3A%22list%22%3Bs%3A7%3A%22%40vendor%22%3Bs%3A2%3A%22PF%22%3B%7D6bdce365bd911e2b00b096506b0e4add6ad80bd5&tx_pfimmo_manage%5B__trustedProperties%5D=a%3A1%3A%7Bs%3A9%3A%22newFilter%22%3Ba%3A7%3A%7Bs%3A5%3A%22price%22%3Bi%3A1%3Bs%3A4%3A%22size%22%3Bi%3A1%3Bs%3A5%3A%22state%22%3Bi%3A1%3Bs%3A4%3A%22city%22%3Bi%3A1%3Bs%3A9%3A%22equipment%22%3Ba%3A12%3A%7Bi%3A0%3Bi%3A1%3Bi%3A1%3Bi%3A1%3Bi%3A2%3Bi%3A1%3Bi%3A3%3Bi%3A1%3Bi%3A4%3Bi%3A1%3Bi%3A5%3Bi%3A1%3Bi%3A6%3Bi%3A1%3Bi%3A7%3Bi%3A1%3Bi%3A8%3Bi%3A1%3Bi%3A9%3Bi%3A1%3Bi%3A10%3Bi%3A1%3Bi%3A11%3Bi%3A1%3B%7Ds%3A9%3A%22openareas%22%3Ba%3A6%3A%7Bi%3A0%3Bi%3A1%3Bi%3A1%3Bi%3A1%3Bi%3A2%3Bi%3A1%3Bi%3A3%3Bi%3A1%3Bi%3A4%3Bi%3A1%3Bi%3A5%3Bi%3A1%3B%7Ds%3A7%3A%22subject%22%3Bi%3A1%3B%7D%7D26349ddbe5f0096d66b0710726a260bac00599a7&tx_pfimmo_manage%5BnewFilter%5D%5Btype%5D=1%7C1&tx_pfimmo_manage%5BnewFilter%5D%5Bprice%5D=&tx_pfimmo_manage%5BnewFilter%5D%5Bsize%5D=&tx_pfimmo_manage%5BnewFilter%5D%5Bstate%5D=4&tx_pfimmo_manage%5BnewFilter%5D%5Bdistricts%5D=&tx_pfimmo_manage%5BnewFilter%5D%5Bcity%5D=&tx_pfimmo_manage%5BnewFilter%5D%5Bequipment%5D=)
 - [siedlungsunion.at](https://www.siedlungsunion.at/wohnen/sofort)
 - [sozialbau.at](https://www.sozialbau.at/angebot/sofort-verfuegbar/)
-- [vwa-aphrodite](https://www.vwa-aphrodite.at/home/wohnungen-garagen/freie-wohnungen)
 - [wbv-gpa.at](http://www.wbv-gpa.at/angebot/freie-wohnungen)
 - [wiensued.at](https://www.wiensued.at/wohnen/?dev=&city=Wien&search=&space-from=90&space-to=&room-from=&room-to=&rent=1&property=1&state%5B%5D=inbau&state%5B%5D=sofort#search-results)
-- [wiseg](https://www.wiseg.at/Projekte)
 - [wogem.at](https://www.wogem.at/de/angebote.php)
 - [wohnen.at](https://www.wohnen.at/angebot/unser-wohnungsangebot/)
 <!-- - [kabelwerk](https://www.kabelwerk.at/objekte/liste) -->
