@@ -152,7 +152,7 @@ Prioritäten
 - [oevw.at](https://www.oevw.at/)
 
 ### Miete
-- [jobwohnen.at](https://www.jobwohnen.at/wohnungen/#suchergebnis)
+- [Kleinanzeigen](https://www.flohmarkt.at/suche/immobilien-wien/praxisraum)
 - [psyonline.at](https://www.psyonline.at/go.asp?sektion=boerse&bereich_id=9001&berufsgruppe=pth&art=praxisraum&suche_biete=Biete&suchformular_id=4&aktion=view&regional=AT%2D9)
 - [sharedspaces.at](https://sharedspaces.at/category/coworking-space/vienna)
 - [keinmakler.at](https://www.keinmakler.at/Gewerbeimmobilie-Miete/Wien-%C3%96sterreich)
