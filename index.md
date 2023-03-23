@@ -18,8 +18,11 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 
 ### Genossenschaftswohnung shortlist
 ------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 Prioritäten
---------------
+------------------------------------------------------------------------
+
 - [heimbau.at](https://www.heimbau.at/wiedervermietung)
 - [familienwohnbau.at](https://www.familienwohnbau.at/immobiliensuche/?sortierung=lastAktivierung%20DESC&bundesland=AT9&nutzungsart=W&hauptflaecheVon=90)
 - [vwa-aphrodite](https://www.vwa-aphrodite.at/home/wohnungen-garagen/freie-wohnungen)
