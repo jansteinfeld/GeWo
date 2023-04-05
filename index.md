@@ -28,7 +28,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [vwa-aphrodite](https://www.vwa-aphrodite.at/home/wohnungen-garagen/freie-wohnungen)
 - [wiseg](https://www.wiseg.at/Projekte)
 
-### Weitere Projekte
+### Weitere interessante Projekte
 
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
 - [arwag.at](https://www.arwag.at/immobiliensuche/)
