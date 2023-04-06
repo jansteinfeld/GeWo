@@ -29,6 +29,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [wiseg](https://www.wiseg.at/Projekte)
 
 ### Weitere interessante Projekte
+------------------------------------------------------------------------
 
 - [ah-wohnen.at](http://ah-wohnen.at/freie-objekte.57.html)
 - [arwag.at](https://www.arwag.at/immobiliensuche/)
