@@ -156,7 +156,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [heimbau.at](https://www.heimbau.at/geschaeftslokale)
 - [hoe.at](https://www.hoe.at/de/wohnungssuche/liste?isSearch=true&searchbezirk%5B%5D=7230&searchbezirk%5B%5D=7163&searchbezirk%5B%5D=7239&searchbezirk%5B%5D=7240&searchbezirk%5B%5D=7241&searchbezirk%5B%5D=7242&searchbezirk%5B%5D=7243&searchbezirk%5B%5D=7244&searchbezirk%5B%5D=7245&searchbezirk%5B%5D=7246&searchbezirk%5B%5D=7247&searchbezirk%5B%5D=7231&searchbezirk%5B%5D=7248&searchbezirk%5B%5D=7249&searchbezirk%5B%5D=7184&searchbezirk%5B%5D=7250&searchbezirk%5B%5D=7232&searchbezirk%5B%5D=7233&searchbezirk%5B%5D=7234&searchbezirk%5B%5D=7235&searchbezirk%5B%5D=7236&searchbezirk%5B%5D=7237&searchbezirk%5B%5D=7238&imo_type=)
 - [oevw.at](https://www.oevw.at/)
-
+- [Wienerwohnen](https://www.wienerwohnen.at/interessentin/geschaeftslokale/geschaeftslokalsuche.html?lokalObjectType=OFFICE&lokalObjectType=ORDINATION&lokalObjectType=STUDIO&lokalObjectType=DEPOT&lokalLocation=attic&sizeFrom=&sizeTo=&priceFrom=&priceTo=&fundingShareFrom=&fundingShareTo=&page=1&rows=5&sorting=1,asc,0)
 
 ### Miete
 - [Kleinanzeigen](https://www.flohmarkt.at/suche/immobilien-wien/praxisraum)
