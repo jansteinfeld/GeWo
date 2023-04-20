@@ -24,7 +24,8 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 ------------------------------------------------------------------------
 
 - [heimbau.at](https://www.heimbau.at/wiedervermietung)
-- [familienwohnbau.at](https://www.familienwohnbau.at/immobiliensuche/?sortierung=lastAktivierung%20DESC&bundesland=AT9&nutzungsart=W&hauptflaecheVon=90)
+<!-- - [familienwohnbau.at](https://www.familienwohnbau.at/immobiliensuche/?sortierung=lastAktivierung%20DESC&bundesland=AT9&nutzungsart=W&hauptflaecheVon=90) -->
+- [familienwohnbau.at](https://familienwohnbau.at/de/immobilien)
 - [vwa-aphrodite](https://www.vwa-aphrodite.at/home/wohnungen-garagen/freie-wohnungen)
 - [wiseg](https://www.wiseg.at/Projekte)
 
