@@ -6,7 +6,6 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 <!-- - [bazar.at](http://www.bazar.at/wien-wohnungen-anzeigen,dir,1,cId,14,fc,9,loc,9,pf,2,pt,18,ref,2,ret,13,sf,8,tp,0,at,0) -->
 - [bazar.at](https://www.bazar.at/l/07-wo/s?locationSuggestions=1990592:R:SUB_MUNICIPALITY:1010&locationSuggestions=1990594:R:SUB_MUNICIPALITY:1020&locationSuggestions=1991416:R:SUB_MUNICIPALITY:1030&locationSuggestions=1991443:R:SUB_MUNICIPALITY:1040&locationSuggestions=1991440:R:SUB_MUNICIPALITY:1050&locationSuggestions=1990595:R:SUB_MUNICIPALITY:1060&locationSuggestions=1990597:R:SUB_MUNICIPALITY:1070&locationSuggestions=1990593:R:SUB_MUNICIPALITY:1080&locationSuggestions=1990590:R:SUB_MUNICIPALITY:1090&locationSuggestions=1990599:R:SUB_MUNICIPALITY:1150&locationSuggestions=1991441:R:SUB_MUNICIPALITY:1160&locationSuggestions=1991438:R:SUB_MUNICIPALITY:1170&locationSuggestions=1990600:R:SUB_MUNICIPALITY:1180&locationSuggestions=1991435:R:SUB_MUNICIPALITY:1190&locationSuggestions=1991437:R:SUB_MUNICIPALITY:1210&locationSuggestions=1991434:R:SUB_MUNICIPALITY:1220&locationSubCountry=109166:R:MUNICIPALITY&locationOtherCountries=false&tradeType=OFFER&price.to=650000&livingSpace.from=85&roomsCount.from=2&openSpaces=BALCONY&openSpaces=LOGGIA&openSpaces=TERRACE&page=0&size=60&sort=sort.date,desc)
 <!-- - [jobwohnen.at](https://www.jobwohnen.at/wohnungen/#suchergebnis) -->
-- [keinmakler.at](https://www.keinmakler.at/Alle-Immobilientypen/Wien-%C3%96sterreich)
 <!-- - [wohnnet.at](https://www.wohnnet.at/immobilien/wohnungen/wien?flaeche=90&preis=-650000&merkmale=balkon) -->
 - [Eigentumswohnung provisionsfrei](https://www.immobilienscout24.at/regional/wien/wien/dachgeschosswohnung-kaufen/provisionsfrei?primaryAreaFrom=85&primaryPriceTo=550000)
 - [Mietwohnung provisionsfrei](https://www.immobilienscout24.at/regional/wien/wien/dachgeschosswohnung-mieten/provisionsfrei?primaryAreaFrom=85&primaryPriceTo=1200)
@@ -20,14 +19,26 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 ------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
-### Prioritäten
+### Prioritäten privat
 ------------------------------------------------------------------------
 
+- [keinmakler.at](https://www.keinmakler.at/Alle-Immobilientypen/Wien-%C3%96sterreich)
 - [heimbau.at](https://www.heimbau.at/wiedervermietung)
 <!-- - [familienwohnbau.at](https://www.familienwohnbau.at/immobiliensuche/?sortierung=lastAktivierung%20DESC&bundesland=AT9&nutzungsart=W&hauptflaecheVon=90) -->
 - [familienwohnbau.at](https://familienwohnbau.at/de/immobilien)
 - [vwa-aphrodite](https://www.vwa-aphrodite.at/home/wohnungen-garagen/freie-wohnungen)
 - [wiseg](https://www.wiseg.at/Projekte)
+- [vwa-aphrodite](https://www.vwa-aphrodite.at/home/wohnungen-garagen/freie-wohnungen)
+
+
+------------------------------------------------------------------------
+### Prioritäten praxis
+------------------------------------------------------------------------
+### Miete
+- [Kleinanzeigen](https://www.flohmarkt.at/suche/immobilien-wien/praxisraum)
+- [psyonline.at](https://www.psyonline.at/go.asp?sektion=boerse&bereich_id=9001&berufsgruppe=pth&art=praxisraum&suche_biete=Biete&suchformular_id=4&aktion=view&regional=AT%2D9)
+- [keinmakler.at](https://www.keinmakler.at/Gewerbeimmobilie-Miete/Wien-%C3%96sterreich)
+
 
 ### Weitere interessante Projekte
 ------------------------------------------------------------------------
@@ -160,10 +171,10 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [Wienerwohnen](https://www.wienerwohnen.at/interessentin/geschaeftslokale/geschaeftslokalsuche.html?lokalObjectType=OFFICE&lokalObjectType=ORDINATION&lokalObjectType=STUDIO&lokalObjectType=DEPOT&lokalLocation=attic&sizeFrom=&sizeTo=&priceFrom=&priceTo=&fundingShareFrom=&fundingShareTo=&page=1&rows=5&sorting=1,asc,0)
 
 ### Miete
-- [Kleinanzeigen](https://www.flohmarkt.at/suche/immobilien-wien/praxisraum)
-- [psyonline.at](https://www.psyonline.at/go.asp?sektion=boerse&bereich_id=9001&berufsgruppe=pth&art=praxisraum&suche_biete=Biete&suchformular_id=4&aktion=view&regional=AT%2D9)
+<!-- - [Kleinanzeigen](https://www.flohmarkt.at/suche/immobilien-wien/praxisraum) -->
+<!-- - [psyonline.at](https://www.psyonline.at/go.asp?sektion=boerse&bereich_id=9001&berufsgruppe=pth&art=praxisraum&suche_biete=Biete&suchformular_id=4&aktion=view&regional=AT%2D9) -->
 - [sharedspaces.at](https://sharedspaces.at/category/coworking-space/vienna)
-- [keinmakler.at](https://www.keinmakler.at/Gewerbeimmobilie-Miete/Wien-%C3%96sterreich)
+<!-- - [keinmakler.at](https://www.keinmakler.at/Gewerbeimmobilie-Miete/Wien-%C3%96sterreich) -->
 
 ------------------------------------------------------------------------
 ## weitere Links
