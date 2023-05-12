@@ -15,11 +15,11 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [ivv.at](https://www.ivv.at/half-map-2/?lat=&lng=&use_radius=on&keyword=&search_location=&radius=0&status=&type=&bedrooms=&min-area=79&max-area=1200&min-price=1&max-price=453015&hidden_geocode_result=&sortby=)
 - [immo-yourself](https://immo-yourself.com/)
 
-### Genossenschaftswohnung shortlist
+------------------------------------------------------------------------
+## Shortlist
 ------------------------------------------------------------------------
 
-------------------------------------------------------------------------
-### Prioritäten privat
+### Privat
 ------------------------------------------------------------------------
 
 - [keinmakler.at](https://www.keinmakler.at/Alle-Immobilientypen/Wien-%C3%96sterreich)
@@ -30,11 +30,8 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [wiseg](https://www.wiseg.at/Projekte)
 - [vwa-aphrodite](https://www.vwa-aphrodite.at/home/wohnungen-garagen/freie-wohnungen)
 
-
+### Praxis
 ------------------------------------------------------------------------
-### Prioritäten praxis
-------------------------------------------------------------------------
-### Miete
 - [Kleinanzeigen](https://www.flohmarkt.at/suche/immobilien-wien/praxisraum)
 - [psyonline.at](https://www.psyonline.at/go.asp?sektion=boerse&bereich_id=9001&berufsgruppe=pth&art=praxisraum&suche_biete=Biete&suchformular_id=4&aktion=view&regional=AT%2D9)
 - [keinmakler.at](https://www.keinmakler.at/Gewerbeimmobilie-Miete/Wien-%C3%96sterreich)
