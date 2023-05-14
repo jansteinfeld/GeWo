@@ -5,10 +5,12 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 ------------------------------------------------------------------------
 ## Shortlist
 ------------------------------------------------------------------------
+```diff
+- Hier findet sich eine Liste von ausgewählten Projekten
+```
 
 ### Privat
 ------------------------------------------------------------------------
-
 - [keinmakler.at](https://www.keinmakler.at/Alle-Immobilientypen/Wien-%C3%96sterreich)
 - [heimbau.at](https://www.heimbau.at/wiedervermietung)
 <!-- - [familienwohnbau.at](https://www.familienwohnbau.at/immobiliensuche/?sortierung=lastAktivierung%20DESC&bundesland=AT9&nutzungsart=W&hauptflaecheVon=90) -->
@@ -24,8 +26,10 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 - [keinmakler.at](https://www.keinmakler.at/Gewerbeimmobilie-Miete/Wien-%C3%96sterreich)
 
 
-
+------------------------------------------------------------------------
 ## Wohnungen
+------------------------------------------------------------------------
+
 
 ### Mietwohnungen
 <!-- - [bazar.at](http://www.bazar.at/wien-wohnungen-anzeigen,dir,1,cId,14,fc,9,loc,9,pf,2,pt,18,ref,2,ret,13,sf,8,tp,0,at,0) -->
