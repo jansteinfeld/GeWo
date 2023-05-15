@@ -27,7 +27,7 @@ Sammlung von Links zu Genossenschaftswohnungen. Die Datengrundlage ist von hier:
 
 
 ------------------------------------------------------------------------
-## Wohnungen
+## Wohnungen und Projekte
 ------------------------------------------------------------------------
 
 
